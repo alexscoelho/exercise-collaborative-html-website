@@ -1,4 +1,6 @@
-# Making a website as a team (Git collabotation)
+# Making a website as a team (Git collabotation) 
+
+test.
 
 Practice your skills in GIT while developing a typical website.
 
